@@ -22,5 +22,8 @@
 ### Certifications 📜
 - [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/0d81e0c9-7494-4bda-909c-87c0fb434e76/public_url) @ Scrum.org
 - [Deep Learning](confirm.udacity.com/KNKXKFFQ) @ Udacity
+
+### Achievements 🎯
+- [PSM I](/scrum/psmi.png)
   
 More information in my [LinkedIn](https://www.linkedin.com/in/jasbirnetwork/) 🚀
