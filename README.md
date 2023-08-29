@@ -24,6 +24,6 @@
 - [Deep Learning](confirm.udacity.com/KNKXKFFQ) @ Udacity
 
 ### Achievements 🎯
-- [PSM I](psmi.png)
+<img src="psmi.png" style=" width:70px ; height:70px "  >
   
 More information in my [LinkedIn](https://www.linkedin.com/in/jasbirnetwork/) 🚀
