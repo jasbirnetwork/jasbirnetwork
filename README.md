@@ -21,7 +21,7 @@
 
 ### Certifications 📜
 - [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/0d81e0c9-7494-4bda-909c-87c0fb434e76/public_url) @ Scrum.org
-- [AWS Certified Developer – Associate]([https://www.credly.com/badges/0d81e0c9-7494-4bda-909c-87c0fb434e76/public_url](https://www.credly.com/badges/61ef3973-ae75-45d2-a0df-18a7ddf72255/linked_in_profile)) @ aws.amazon.com
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/61ef3973-ae75-45d2-a0df-18a7ddf72255/linked_in_profile) @ aws.amazon.com
 - [Deep Learning](confirm.udacity.com/KNKXKFFQ) @ Udacity
 
 ### Achievements 🎯
