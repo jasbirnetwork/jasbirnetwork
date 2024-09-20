@@ -10,10 +10,12 @@
 ### Work experience 👔
 | Job Position           | Company         | Field                         | Work Period       |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Engineer Technology** | **Iris Software Inc.** | **Full Stack development**  | **2021-05 — 2023-04** |
+| **Senior Software Developer**  | **Defense Station**  | **Full Stack development**      | **2023-05 — Present** |
+| Engineer Technology | Iris Software Inc. | Full Stack development**  | 2021-05 — 2023-04 |
 | Senior Technology Architect          | Just Dial     | Full Stack development         | 2020-09 — 2021-05 |
 | Full Stack Engineer Tech Lead          | WGD Analytics Pvt Ltd     | Full Stack development | 2017-12 — 2020-09 |
 | Software Analyst    | Stratbeans Consulting  | LMS development      | 2017-01 — 2017-07 |
+
 
 ### Education 🎓
 - [Postgraduate Degree](https://github.com/jasbirnetwork) @ Loyalist College (2023 - current)
